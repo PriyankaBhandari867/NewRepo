@@ -9,5 +9,6 @@ namespace UsingNew.Models
     {
         public int id { get; set; }
         public int id2 { get; set; }
+        public int MyProperty { get; set; }
     }
 }
